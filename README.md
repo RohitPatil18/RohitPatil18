@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django, FastAPI, Docker, Project Leadership and Mentorship**
 
-- 📫 How to reach me **patil.rohit048@gmail.com**
+- 📫 Reach me at **patil.rohit048@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Sjc8IFO4zFPxwkMvmo_uJrZmez525rci/view?usp=sharing](https://drive.google.com/file/d/1Sjc8IFO4zFPxwkMvmo_uJrZmez525rci/view?usp=sharing)
 
