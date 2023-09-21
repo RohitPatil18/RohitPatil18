@@ -9,8 +9,6 @@
 
 - 📫 Reach me at **patil.rohit048@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sjc8IFO4zFPxwkMvmo_uJrZmez525rci/view?usp=sharing](https://drive.google.com/file/d/1Sjc8IFO4zFPxwkMvmo_uJrZmez525rci/view?usp=sharing)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
